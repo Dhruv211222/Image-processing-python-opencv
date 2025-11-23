@@ -46,4 +46,3 @@ All assignments include clear explanations, code implementations, and output vis
 
 ---
 
-## 📁 Folder Structure
